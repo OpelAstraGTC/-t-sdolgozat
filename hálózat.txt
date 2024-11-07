@@ -1,0 +1,13 @@
+halozat = []
+
+with open('halozat.txt', 'r', encoding='utf-8') as forras, \
+     open('halozat_adat.txt', 'w', encoding='utf-8') as cel:
+    
+    # Adatok beolvasása
+    for sor in forras:
+        # Sorok feldolgozása
+        adat = sor.strip().split(',')
+        eszkoz = {'nev': adat[0], 'ip_cim': adat[1]}
+        halozat.append(eszkoz)
+        print(eszkoz, file=cel)
+print(halozat)

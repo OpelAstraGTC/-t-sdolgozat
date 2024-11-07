@@ -1,0 +1,15 @@
+{'szrzo': 'J.K. Rowling', 'cm': "Harry Potter and the Philosopher's Stone", 'kiads': '1997', 'ISBN': '0-7475-3269-9', 'allapot': 'Olvasott'}
+{'szrzo': 'George Orwell', 'cm': '1984', 'kiads': '1949', 'ISBN': '0-452-28423-6', 'allapot': 'Olvasatlan'}
+{'szrzo': 'J.R.R. Tolkien', 'cm': 'The Hobbit', 'kiads': '1937', 'ISBN': '0-618-00221-9', 'allapot': 'Olvasott'}
+{'szrzo': 'F. Scott Fitzgerald', 'cm': 'The Great Gatsby', 'kiads': '1925', 'ISBN': '0-7432-7356-7', 'allapot': 'Olvasatlan'}
+{'szrzo': 'Jane Austen', 'cm': 'Pride and Prejudice', 'kiads': '1813', 'ISBN': '0-19-283355-X', 'allapot': 'Olvasott'}
+{'szrzo': 'Harper Lee', 'cm': 'To Kill a Mockingbird', 'kiads': '1960', 'ISBN': '0-06-112008-1', 'allapot': 'Olvasott'}
+{'szrzo': 'Mark Twain', 'cm': 'The Adventures of Huckleberry Finn', 'kiads': '1884', 'ISBN': '0-14-310732-1', 'allapot': 'Olvasatlan'}
+{'szrzo': 'Charles Dickens', 'cm': 'Great Expectations', 'kiads': '1861', 'ISBN': '0-14-143956-4', 'allapot': 'Olvasott'}
+{'szrzo': 'Leo Tolstoy', 'cm': 'War and Peace', 'kiads': '1869', 'ISBN': '0-19-926794-4', 'allapot': 'Olvasatlan'}
+{'szrzo': 'Ernest Hemingway', 'cm': 'The Old Man and the Sea', 'kiads': '1952', 'ISBN': '0-684-80122-1', 'allapot': 'Olvasott'}
+{'szrzo': 'William Shakespeare', 'cm': 'Hamlet', 'kiads': '1603', 'ISBN': '978-0521618748', 'allapot': 'Olvasatlan'}
+{'szrzo': 'Agatha Christie', 'cm': 'Murder on the Orient Express', 'kiads': '1934', 'ISBN': '0-000-72825-6', 'allapot': 'Olvasott'}
+{'szrzo': 'Louisa May Alcott', 'cm': 'Little Women', 'kiads': '1868', 'ISBN': '0-451-52994-6', 'allapot': 'Olvasatlan'}
+{'szrzo': 'Charlotte Bront', 'cm': 'Jane Eyre', 'kiads': '1847', 'ISBN': '0-14-144114-3', 'allapot': 'Olvasott'}
+{'szrzo': 'Dan Brown', 'cm': 'The Da Vinci Code', 'kiads': '2003', 'ISBN': '0-385-50420-9', 'allapot': 'Olvasatlan'}
